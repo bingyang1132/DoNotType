@@ -1,0 +1,3 @@
+# The repository's ignore rules are scoped to the platform directories, so this tool carries its own.
+bin/
+obj/
